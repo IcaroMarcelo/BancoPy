@@ -30,7 +30,7 @@ BancoPy/
 ├── utils/
 │   └── helper.py
 ├── bank.py
-├── test.py
+├── teste.py
 ├── README.md
 └── .gitignore
 ```
